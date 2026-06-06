@@ -3,7 +3,7 @@
 # Trash2Trade ♻️
 
 A recycling marketplace app connecting trash sellers with buyers.  
-Built as an MCA mini project using **React, Node.js, Express, MongoDB, and Tailwind CSS**.
+Built as an MCA project using **React, Node.js, Express, MongoDB, and Tailwind CSS**.
 
 ---
 
