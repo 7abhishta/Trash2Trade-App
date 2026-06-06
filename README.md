@@ -35,4 +35,38 @@ It connects sellers (who want to dispose of recyclable materials) with buyers (w
 ## ⚙️ Setup Instructions
 ### 1. Clone the Repository
 ```bash
+
 git clone https://github.com/7abhishta/Trash
+
+1.backend setup
+
+cd trash2trade-backend
+npm install
+npm start
+
+2. Frontend -
+cd trash2trade-frontend
+npm install
+npm run dev
+
+3. Create env
+
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
+RAZORPAY_KEY=your_key
+RAZORPAY_SECRET=your_secret
+
+🚀 Future Enhancements
+📱 Mobile app version (React Native)
+
+🌍 Multi-language support
+
+🔎 Advanced search & filtering
+
+📈 Analytics dashboard for sustainability impact
+
+👨‍💻 Author
+Abhishta Prasad G  
+GitHub: @7abhishta
+
+
